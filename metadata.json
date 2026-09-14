@@ -1,0 +1,6 @@
+{
+  "name": "LEO PNT Constellation Optimizer",
+  "description": "Симулятор и оптимизатор низкоорбитальной спутниковой навигационной группировки Уокера: реалистичная модель возмущений, расчет поля GDOP, экономико-техническая функция стоимости и научный ассистент.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
